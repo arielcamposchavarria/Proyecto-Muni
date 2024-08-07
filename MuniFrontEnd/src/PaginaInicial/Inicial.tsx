@@ -17,8 +17,8 @@ function Inicial() {
         </div>
       </nav>
       <main className="welcome-content">
-        <h2>Welcome to MyApp!</h2>
-        <p>Your journey starts here.</p>
+        <h2>Bienvenidos al departamento Zona Maritimo Terrestre</h2>
+        <p>Municipalidad de Nicoya</p>
       </main>
     </div>
     </div>

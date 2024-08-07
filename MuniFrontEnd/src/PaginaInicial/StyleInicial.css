@@ -14,6 +14,7 @@ body {
   }
   
   .navbar {
+    width: 100%;
     background-color: #333;
     color: #fff;
     padding: 1rem;
@@ -75,7 +76,7 @@ body {
   }
   
   .home-content {
-    background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro semitransparente para mayor contraste */
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 2rem;
     border-radius: 10px;
   }
